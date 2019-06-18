@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 18 06:46:49 2019
-
-@author: Estudiante
-"""
-
-
-
 
 def cifrar(texto,k):
     s = ""
